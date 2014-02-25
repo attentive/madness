@@ -1,22 +1,20 @@
 ---
 title: "GSoC2014: syslog-ng ACCEPTED"
-date: 2014-02-25 14:30
+date: 2014-02-25 15:45
 tags: [Technology, syslog-ng, Debian, .planet.debian]
 ---
 
-We have applied to become a mentoring organisation for Google Summer
-of Code both in 2012, and in 2013, and both times, we did not get in
-(but both times, we participated under the umbrella of the
-[openSUSE][openSUSE] project, many thanks!). This year, we did not
-apply as [BalaBit][balabit], but as the [syslog-ng project][sng], and
-we put a lot of effort not just into the proposals, but on the
-organisation image as well, with a brand-new [website][sng], among
-other things. This paid off, and unlike the past two years, we were
-[**accepted**][sng:accept] to the
-[Google Summer of Code 2014][gsoc2014] programme! I would like to
-thank both [openSUSE][openSUSE] for their past help, and for them
-vouching for us this year, and [Debian][debian] too for supporting our
-application with their vouch as well.
+We are happy to announce that we were [**accepted**][sng:accept] to be
+a mentoring organisation for Google Summer of Code
+[Google Summer of Code 2014][gsoc2014] programme! This year, we
+applied as the [syslog-ng project][sng], independently from the
+company behind, and we put a lot of effort not just into the
+proposals, but on the organisation image as well, with a brand-new
+[website][sng], among other things. I would like to thank both
+[openSUSE][openSUSE] for their past help (in 2012, and in 2013, we
+participated on GSOC under the umbrella of the [openSUSE][openSUSE])
+and for vouching for us this year, and [Debian][debian] too, for
+supporting our application with their vouch as well.
 
 This year, we have - as per usual - an interesting list of projects to
 choose from, with varied difficulties, touching a wide range of
