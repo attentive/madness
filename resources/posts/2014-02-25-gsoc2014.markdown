@@ -1,0 +1,81 @@
+---
+title: "GSoC2014: syslog-ng ACCEPTED"
+date: 2014-02-25 14:30
+tags: [Technology, syslog-ng, Debian, .planet.debian]
+---
+
+We have applied to become a mentoring organisation for Google Summer
+of Code both in 2012, and in 2013, and both times, we did not get in
+(but both times, we participated under the umbrella of the
+[openSUSE][openSUSE] project, many thanks!). This year, we did not
+apply as [BalaBit][balabit], but as the [syslog-ng project][sng], and
+we put a lot of effort not just into the proposals, but on the
+organisation image as well, with a brand-new [website][sng], among
+other things. This paid off, and unlike the past two years, we were
+[**accepted**][sng:accept] to the
+[Google Summer of Code 2014][gsoc2014] programme! I would like to
+thank both [openSUSE][openSUSE] for their past help, and for them
+vouching for us this year, and [Debian][debian] too for supporting our
+application with their vouch as well.
+
+This year, we have - as per usual - an interesting list of projects to
+choose from, with varied difficulties, touching a wide range of
+syslog-ng components. I am confident that any student interested in
+logging, or systems infrastracture in general, would find something
+interesting on our [idea page][ideas]. But if not, we are certainly
+open to accepting student proposals too.
+
+ [sng]: http://www.syslog-ng.org/
+ [balabit]: http://www.balabit.com/
+ [gsoc2014]: http://www.google-melange.com/gsoc/homepage/google/gsoc2014
+ [openSUSE]: http://en.opensuse.org/Main_Page
+ [debian]: http://www.debian.org/
+ [sng:accept]: http://www.google-melange.com/gsoc/org2/google/gsoc2014/syslog_ng
+ [ideas]: https://github.com/balabit/syslog-ng/wiki/GSoC2014-idea-&-project-list
+
+<!-- more -->
+
+Unlike in previous years, we have a much better infrastracture (in the
+form of [The Incubator][sng:incubator]), more [documentation][howtos],
+more mentors, and projects that are described in more detail, where
+we, as mentors, have a better idea of what we'd like to see. This is a
+very interesting opportunity for us too, not just for students, as for
+the first time in our history within the Google Summer of Code
+programme, we are on our own, without an umbrella organisation, and we
+have to prove our worth. And we certainly will do that. What our
+students built [last year][gsoc2013] is the bare minimum this year:
+we're upping the goals, for we want to build even more awesome
+features.
+
+ [sng:incubator]: https://github.com/balabit/syslog-ng-incubator
+ [howtos]: http://asylum.madhouse-project.org/blog/tags/howto/
+ [gsoc2013]: http://asylum.madhouse-project.org/blog/2013/10/08/gsoc2013/
+
+Of course, building amazing things is just a side-effect, because the
+real purpose of the programme is to teach, and to get people involved
+in the free software community as a whole. Our mentors are all
+contributors to various free software projects, and we'd like our
+students to become such contributors too, to let them see that while
+the tasks may be challenging, the rewards are well worth it. Seeing
+**your** code used in production is a terrific feeling. Talking with
+the community, with the potential users is incredibly useful, and
+rewarding too. We'd like our students to be involved throughly and
+deeply, we will let them see the beauty the Free Software world has to
+offer.
+
+They will also learn a ton about the internals of syslog-ng, a
+software used on millions on devices, from embedded devices to
+room-size cluster monsters. We'll touch multi threading, in-software
+communication, scalability, performance and data structure topics.
+We'll fight with ancient, legacy systems, **and win**! The road ahead
+is challenging, but full of adventure.
+
+If you are a student, [contact us](https://www.syslog-ng.org/#top),
+either on [IRC](irc://chat.freenode.net/#syslog-ng), on
+[Twitter](https://twitter.com/sngOSE), or the
+[mailing list](https://lists.balabit.hu/mailman/listinfo/syslog-ng),
+we are happy to answer any questions you may have. If you are a user
+of syslog-ng, we would welcome feedback on our [ideas][ideas], and new
+proposals too!
+
+ [ideas]: https://github.com/balabit/syslog-ng/wiki/GSoC2014-idea-&-project-list
